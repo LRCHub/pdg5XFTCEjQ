@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "ウタカタララバイ",
+  "base_artist": "Ado",
+  "createdAt": "2025-12-25T12:13:01.588421Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ウタカタララバイ",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/01_ウタカタララバイ_Ado.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ウタカタララバイ",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/02_ウタカタララバイ_Ado.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ウタカタララバイ",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/03_ウタカタララバイ_Ado.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ウタカタララバイ - Fleeting Lullaby",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/04_ウタカタララバイ_-_Fleeting_Lullaby_Ado.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ウタカタララバイ",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/05_ウタカタララバイ_Ado.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ウタカタララバイ",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/06_ウタカタララバイ_Ado.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ウタカタララバイ - Fleeting Lullaby",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/07_ウタカタララバイ_-_Fleeting_Lullaby_Ado.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ウタカタララバイ",
+      "artist": "FAKE TYPE.",
+      "has_synced": true,
+      "path": "select/08_ウタカタララバイ_FAKE_TYPE..lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ウタカタララバイ",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/09_ウタカタララバイ_Ado.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ウタカタララバイ",
+      "artist": "Ado",
+      "has_synced": false,
+      "path": "select/pl_01_ウタカタララバイ_Ado.txt"
+    }
+  ]
+}
