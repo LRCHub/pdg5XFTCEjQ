@@ -1,0 +1,108 @@
+# Ado – ウタカタララバイ
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:00.81] ひとりぼっちには飽き飽きなの
+[00:00.81] (I'm sick and tired of being all alone)
+[00:03.92] 繋がっていたいの
+[00:03.92] (I want to be connected)
+[00:06.79] 純真無垢な想いのまま loud out (loud out)
+[00:06.79] (With pure, innocent feelings loud out (loud out))
+[00:13.47] Listen up, baby 消えない染みのようなハピネス
+[00:13.47] (Listen up, baby Happiness like an indelible stain)
+[00:15.75] 君の耳の奥へホーミング 逃げちゃダメよ浴びて
+[00:15.75] (Homing into your inner ear Don't run away, just soak it in)
+[00:18.54] 他の追随許さないウタの綴るサプライズ
+[00:18.54] (A surprise woven by a song that leaves others in the dust)
+[00:21.61] リアルなんて要らないよね？
+[00:21.61] (You don't need reality, right?)
+[00:24.15] 後で気付いたってもう遅い
+[00:24.15] (You'll realize too late)
+[00:26.90] 入れてあげないんだから
+[00:26.90] (I won't let you in)
+[00:29.78] 手間取らせないで be my good, good, good boys and girls
+[00:29.78] (Don't waste my time be my good, good, good boys and girls)
+[00:35.26] 誤魔化して強がらないでもう
+[00:35.26] (Stop pretending and acting tough)
+[00:38.78] ほら早くこっちおいで
+[00:38.78] (Come on, hurry over here)
+[00:40.64] 全てが楽しいこのステージ上 一緒に歌おうよ
+[00:40.64] (Everything's fun on this stage, let's sing together)
+[00:47.98] Haha! I wanna make your day, do my thing 堂々と
+[00:47.98] (Haha! I wanna make your day, do my thing with pride)
+[00:50.72] Hey ねぇ 教えて何がいけないの？
+[00:50.72] (Hey, tell me, what's wrong?)
+[00:53.65] この場はユートピア だって望み通りでしょ？
+[00:53.65] (This place is utopia, it's just what you wanted, right?)
+[00:58.96] 突発的な泡沫なんて言わせない
+[00:58.96] (I won't let you call this a sudden bubble)
+[01:01.91] (Ooh-ooh-yeah, ooh-yeah-ooh)
+[01:04.45] 慈悲深いがゆえ灼たか もう止まれない
+[01:04.45] (Burning bright because of mercy, I can't stop now)
+[01:07.25] ないものねだりじゃないこの願い
+[01:07.25] (This wish isn't wanting what I don't have)
+[01:10.44] I wanna know 君が欲しいもの
+[01:10.44] (I wanna know what you desire)
+[01:11.68] 本心も気付かせてあげるよ
+[01:11.68] (I'll make you realize your true feelings)
+[01:12.64] 見返りなんて要らない あり得ない
+[01:12.64] (I don't need anything in return, impossible)
+[01:14.19] ただ一緒にいて？ True heart
+[01:14.19] (Just be with me? True heart)
+[01:15.72] Oh my F-word
+[01:15.72] (Oh my F-word)
+[01:16.54] 全身がふわふわっと不安などシャットアウト bye
+[01:16.54] (My whole body floats away, shutting out all anxiety. Bye.)
+[01:18.09] 半端ない数多のファンサは愛
+[01:18.09] (Countless fan services are love.)
+[01:19.65] ずっと終わらない you and I ここにいる限り
+[01:19.65] (It'll never end, you and I, as long as we're here.)
+[01:21.63] Trust me 超楽しい that's all
+[01:21.63] (Trust me, it's super fun. That's all.)
+[01:23.63] 心奪われてうっとりと
+[01:23.63] (My heart's stolen, I'm lost in ecstasy)
+[01:24.78] 道理もなくなってしまうほど渇望させちゃう
+[01:24.78] (I make you crave me so much you lose all reason)
+[01:26.95] 一抜けも二抜けもさせない させない!
+[01:26.95] (I won't let you slip away, not once, not twice!)
+[01:29.25] I got a mic so you crazy for me forever
+[01:29.25] (I got a mic so you're crazy for me forever)
+[01:31.97] 迷わないで 手招くメロディーとビートに身を任せて
+[01:31.97] (Don't hesitate, surrender to the beckoning melody and beat)
+[01:37.42] 全てが新しいこのステージ上 一緒に踊ろうよ
+[01:37.42] (On this stage where everything is new, let's dance together)
+[01:44.61] Haha! I wanna make your day, do my thing 堂々と
+[01:44.61] (Haha! I wanna make your day, do my thing with pride)
+[01:47.41] Hey ねぇ 教えて何がいけないの？
+[01:47.41] (Hey, tell me, what's wrong?)
+[01:50.24] この場はユートピア だって望み通りでしょ？
+[01:50.24] (This place is utopia, 'cause it's just what you wanted, right?)
+[01:55.66] 突発的な泡沫なんて言わせない
+[01:55.66] (I won't let you call it a sudden bubble)
+[01:58.52] (Ooh ooh-yeah ooh-yeah ooh)
+[02:00.92] 慈悲深いがゆえ灼たか もう止まれない
+[02:00.92] (Burning bright because of mercy, can't stop now)
+[02:03.93] ないものねだりじゃないこの願い
+[02:03.93] (This wish isn't wanting what I don't have)
+[02:07.61] この時代は悲鳴を奏で救いを求めていたの
+[02:07.61] (This era played a scream, begging for salvation)
+[02:12.97] 誰も気付いてあげられなかったから
+[02:12.97] (Because no one noticed)
+[02:17.62] わたしがやらなきゃ だから邪魔しないで お願い
+[02:17.62] (I have to do it. So don't get in my way. Please)
+[02:23.63] もう戻れないの だから永遠に一緒に歌おうよ
+[02:23.63] (There's no going back, so let's sing together forever)
+[02:28.33] 直に脳を揺らすベース 鼓膜ぶち破るドラム
+[02:28.33] (Bass that shakes your brain, drums that shatter your eardrums)
+[02:30.98] 心の臓撫でるブラス ピアノ マカフェリ
+[02:30.98] (Brass that caresses your heart, piano, Macafeli)
+[02:33.25] 五月雨な譜割りで shout out! Doo-wop-wop-wah!
+[02:33.25] (With a scattered rhythm, shout out! Doo-wop-wop-wah!)
+[02:38.99] 欺きや洗脳 お呼びじゃない
+[02:38.99] (Deception and brainwashing? Not welcome here.)
+[02:41.44] ただ信じて願い歌うわたしから耳を離さないで
+[02:41.44] (Just believe, wish, and sing—don't turn your ears away from me.)
+[02:47.19] それだけでいい hear my true voice
+[02:47.19] (That's all it takes. Hear my true voice.)
+```
